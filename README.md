@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @fernandoalonso52
+- 👀 I’m interested in Python programming for automating day-to-day tasks and improving healthcare
+- 🌱 I’m currently on medical school (2/6), interested in Evidence Based Medicine and AI on healthcare
+- 📫 Reach me at instagram.com/fernandoalonso52 or fernando.alonso@aluno.fmabc.net
